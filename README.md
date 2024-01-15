@@ -1,4 +1,4 @@
-## **Project Title: Sheep Breed Classification**
+# **Project Title: Sheep Breed Classification**
 
 **Overview:**
 The "Sheep Breed Classification" project is centred around the development of an advanced image classification system capable of identifying different breeds of sheep. Leveraging state-of-the-art techniques in deep learning and utilizing the ResNet50 model, this project addresses the unique challenges posed by diverse sheep breeds, contributing to precision livestock farming and genetic research.
