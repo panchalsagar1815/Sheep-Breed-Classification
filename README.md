@@ -26,7 +26,7 @@ The "Sheep Breed Classification" project is centred around the development of an
 
 5. **Model Architecture Details:**
    - Configured a Sequential model with layers including ResNet50 (Functional) for feature extraction.
-   - Incorporated a Flatten layer to convert the multi-dimensional output to a one-dimensional array.
+   - Incorporated a flattened layer to convert the multi-dimensional output to a one-dimensional array.
    - Utilized a Dense layer for the final classification, with four output nodes corresponding to the different sheep breeds.
 
 **Model Summary:**
